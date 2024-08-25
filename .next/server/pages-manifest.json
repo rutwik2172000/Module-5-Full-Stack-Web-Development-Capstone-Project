@@ -1,0 +1,19 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/api/movie/trending/[id]": "pages/api/movie/trending/[id].js",
+  "/api/movie/now/[id]": "pages/api/movie/now/[id].js",
+  "/api/movie/popular/[id]": "pages/api/movie/popular/[id].js",
+  "/api/movie/top/[id]": "pages/api/movie/top/[id].js",
+  "/api/tv/trending/[id]": "pages/api/tv/trending/[id].js",
+  "/api/movie/upcoming/[id]": "pages/api/movie/upcoming/[id].js",
+  "/api/tv/airing/[id]": "pages/api/tv/airing/[id].js",
+  "/api/tv/onair/[id]": "pages/api/tv/onair/[id].js",
+  "/api/tv/top/[id]": "pages/api/tv/top/[id].js",
+  "/api/tv/popular/[id]": "pages/api/tv/popular/[id].js",
+  "/tv/popular/[id]": "pages/tv/popular/[id].js",
+  "/movie": "pages/movie.js",
+  "/tv": "pages/tv.js"
+}
