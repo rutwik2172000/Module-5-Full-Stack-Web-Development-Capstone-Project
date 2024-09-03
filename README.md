@@ -60,7 +60,7 @@ Run the Project
 
 #### Direct Link Click
 
-https://deluxe-faun-0cf802.netlify.app/
+https://myentertainmentwebapp.netlify.app/
 ## Author
 
 - [@rutwik2172000](https://github.com/rutwik2172000)
